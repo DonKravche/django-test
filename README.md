@@ -21,10 +21,13 @@ This repository includes a Django tutorial on how to create a Django environment
 - 5. To Create super user write:
      ```py
      python manage.py createsuperuser
+     
 - 6. Follow the instructions
 
 - 7. now you are ready to write created user to the Administering Django page and log in <3
      ![image](https://github.com/DonKravche/django-test/assets/138400870/e00afa62-409a-40dd-8d08-f67fa41a3471)
+     
 - 8. Congratulations You made it !
   ![image](https://github.com/DonKravche/django-test/assets/138400870/9ac3de9b-f6e2-4ff6-96e2-ebff650bdb80)
+
 - 9. Fell Free to test and use my code !
