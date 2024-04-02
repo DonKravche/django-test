@@ -9,7 +9,7 @@ This repository includes a Django tutorial on how to create a Django environment
      ```py
      python manage.py runserver
      
-     ```img
+     
      ![image](https://github.com/DonKravche/django-test/assets/138400870/6f77ee07-9d1d-4cc4-b73f-4b5cde059c85)
      ![image](https://github.com/DonKravche/django-test/assets/138400870/dccc17e9-6652-4039-8047-3883fcfcd7c0)
 
